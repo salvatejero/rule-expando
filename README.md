@@ -1,5 +1,4 @@
 # rule-expando
-======================
 
 ## Description
 
