@@ -1,5 +1,5 @@
 # rule-expando
 
-## Description
+### Description
 
-Select a ExpandoColumn a Value for the rule
+Select a ExpandoColumn and a possible value for the rule
